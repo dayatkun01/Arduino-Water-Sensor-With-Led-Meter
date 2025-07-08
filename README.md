@@ -13,7 +13,7 @@ Hi, my name is Rahmat Hidayat. I code for fun and sometimes share my code here s
 
 ## Wiring
 
-### Water Sennsor
+### Water Sensor
 - S -> A0
 - + -> Any 5v source
 - - -> Any ground
