@@ -19,9 +19,9 @@ Hi, my name is Rahmat Hidayat. I code for fun and sometimes share my code here s
 - - -> Any ground
 
 ### LED
-- LED -> Via resistor -> 9
-- LED -> Via resistor -> 10
-- LED -> Via resistor -> 11
+- LED -> Via resistor -> 9 (For low water meter)
+- LED -> Via resistor -> 10 (For mid water meter)
+- LED -> Via resistor -> 11 (For high water meter)
 
 ## How to Use
 1. Download the code from the `Tags` section.
